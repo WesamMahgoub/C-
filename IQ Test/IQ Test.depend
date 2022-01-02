@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588418805 source:e:\iq test\main.cpp
+	<iostream>
+	<cstdlib>
+

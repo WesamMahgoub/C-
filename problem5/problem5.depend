@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582636636 source:c:\users\hatem\downloads\problem5\main.cpp
+	<iostream>
+	<math.h>
+

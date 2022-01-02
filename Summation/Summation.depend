@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583997067 source:c:\users\hatem\downloads\summation\main.cpp
+	<iostream>
+	<cmath>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585305554 source:e:\prime checking\main.cpp
+	<iostream>
+	<cstdlib>
+

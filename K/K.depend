@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582950833 source:c:\users\hatem\downloads\k\main.cpp
+	<iostream>
+	<iomanip>
+

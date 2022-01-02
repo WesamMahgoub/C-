@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582914519 source:c:\users\hatem\downloads\dcontest\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+

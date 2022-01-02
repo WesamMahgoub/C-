@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584882348 source:c:\users\hatem\downloads\compare\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+

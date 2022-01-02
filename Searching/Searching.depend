@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583997892 source:c:\users\hatem\downloads\searching\main.cpp
+	<iostream>
+	<cstdlib>
+

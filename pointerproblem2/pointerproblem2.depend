@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583249122 source:c:\users\hatem\downloads\pointerproblem2\main.cpp
+	<iostream>
+	<cstring>
+	<CCTYPE>
+

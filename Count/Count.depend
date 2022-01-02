@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584711839 source:c:\users\hatem\downloads\count\main.cpp
+	<iostream>
+
+1585032772 source:e:\count\main.cpp
+	<iostream>
+	<cmath>
+

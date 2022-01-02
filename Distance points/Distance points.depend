@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585290195 source:e:\distance points\main.cpp
+	<iostream>
+	<cmath>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586010668 source:e:\equation function\main.cpp
+	<iostream>
+	<cmath>
+
